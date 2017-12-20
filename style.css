@@ -12,10 +12,13 @@ body {
 
 .video-wrapper {
     position: relative;
+    text-align: center;
 }
 
 .video-wrapper > video {
-    width: 100%;
+    width: 80%;
+    height: 80%;
+
     vertical-align: middle;
 }
 
